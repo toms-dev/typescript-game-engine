@@ -6,3 +6,7 @@
 	path = samples
 	url = https://github.com/toms-dev/typescript-game-engine-samples.git
 	branch = master
+[submodule "client"]
+	path = client
+	url = https://github.com/toms-dev/typescript-game-engine-client.git
+	branch = master
