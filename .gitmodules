@@ -1,6 +1,3 @@
-[submodule "client"]
-	path = client
-	url = https://github.com/toms-dev/typescript-game-engine-client.git
 [submodule "samples"]
 	path = samples
 	url = https://github.com/toms-dev/typescript-game-engine-samples.git
