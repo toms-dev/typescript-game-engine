@@ -1,7 +1,8 @@
-[submodule "samples"]
-	path = samples
-	url = https://github.com/toms-dev/typescript-game-engine-samples.git
 [submodule "server"]
 	path = server
 	url = https://github.com/toms-dev/typescript-game-engine-server.git
+	branch = master
+[submodule "samples"]
+	path = samples
+	url = https://github.com/toms-dev/typescript-game-engine-samples.git
 	branch = master
